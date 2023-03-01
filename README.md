@@ -2,9 +2,9 @@
 
 # Description
 
-The motivation for the project is to build Progressive Web Application that can store and retrive notes stored in IndexedDB dataBase. The application is downloadable and allows the user to use without an internet connection.
+The motivation for the project is to build Progressive Web Application that can store and retrieve notes stored in IndexedDB dataBase. The application is downloadable and allows the user to use without an internet connection.
 
-The app uses the following technogies:
+The app uses the following technologies:
 
 -   NodeJs
 -   Express
