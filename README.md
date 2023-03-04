@@ -26,3 +26,7 @@ The JATE app utilizes service worker capabilities to provide data while also enh
 ## Screenshots
 
 ![Jate APP](./assets/images/Screenshot%202023-03-01%20095254.png)
+
+## Deployed application link
+
+[Dexter-pwa-text-editor](https://dexter-pwa-text-editor.herokuapp.com/)
